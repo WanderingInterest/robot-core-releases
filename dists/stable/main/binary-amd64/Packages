@@ -1,13 +1,13 @@
 Package: robot-core-desktop
-Version: 0.4.0
+Version: 0.4.1
 Architecture: all
 Maintainer: Robot Core
 Depends: python3 (>= 3.11), python3-gi, gir1.2-gtk-3.0, gir1.2-webkit2-4.1, gir1.2-secret-1, pipewire-bin, python3-websocket (>= 1.7), nodejs
-Filename: pool/main/robot-core-desktop_0.4.0_all.deb
-Size: 1827234
-MD5sum: a2ada901725d60b066540d6505662dbf
-SHA1: a765128a6a08b1f9d49158a9bbcda8514d432b35
-SHA256: 564bde1f014c7eb39411fbb54d464434755bc512048ce1cef7dd5a7e4effc466
+Filename: pool/main/robot-core-desktop_0.4.1_all.deb
+Size: 1827472
+MD5sum: 4cbbf7c9d200c0b4720482911fc68db6
+SHA1: cbba2a4ea7d571119db3519190fe828121e7ed72
+SHA256: bf21927ade5c6fa61709a23b5584e4457bea3c7a6812277279f240a3223e12da
 Section: utils
 Priority: optional
 Description: Independent Robot Core desktop proof of concept

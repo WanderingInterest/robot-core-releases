@@ -1,11 +1,8 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "target": "Ubuntu/Debian amd64",
-  "package_sha256": "564bde1f014c7eb39411fbb54d464434755bc512048ce1cef7dd5a7e4effc466",
+  "package_sha256": "bf21927ade5c6fa61709a23b5584e4457bea3c7a6812277279f240a3223e12da",
   "release_key_fingerprint": "6AD48775BEA92AEC26ADA921C600501C27856B40",
-  "signature_verified": true,
-  "tampering_rejected": true,
   "personal_data_included": false,
-  "bootable_os_image": false,
-  "hosting_live": false
+  "bootable_os_image": false
 }
