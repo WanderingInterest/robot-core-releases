@@ -1,0 +1,20 @@
+-----BEGIN PGP SIGNED MESSAGE-----
+Hash: SHA256
+
+Origin: Robot Core
+Label: Robot Core
+Suite: stable
+Codename: stable
+Architectures: amd64
+Components: main
+Date: Mon, 19 Oct 2026 00:37:20 +0000
+SHA256:
+ b34c606430db59bd7ffaad7835737499172c9283540af21ba3ee5b720724a40e 633 main/binary-amd64/Packages
+ 0342797d8163db56978b7c2ca6040135a03f5be3fa15c211e72a4b9181e95f50 445 main/binary-amd64/Packages.gz
+-----BEGIN PGP SIGNATURE-----
+
+iHUEARYIAB0WIQRq1Id1vqkq7CatqSHGAFAcJ4VrQAUCatVmQAAKCRDGAFAcJ4Vr
+QFDSAQC4JhBGSXWkRNPdcB/mceaKtTtrBLkTVvwXL5GQyTeiqgEAg2mokfr7iqDG
+EibiO0gICAU7NAvyy9emi9+hqiACSgo=
+=GQTp
+-----END PGP SIGNATURE-----
